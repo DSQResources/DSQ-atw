@@ -25,6 +25,12 @@ It is very likely that data will be moved and copied. At some point people may l
   * If you have any ideas, please go to [issues].
   * You can provide any extra resources in the `/resources` directory via [pull request].
 
+## Please contribute!
+
+  * [Want to propose a new resource?](https://github.com/DSQResources/DSQ-atw/issues/new)
+  * [Want to report an issue / give a feedback?](https://github.com/DSQResources/DSQ-atw/issues/new)
+  * [We also welcome pull requests!](https://github.com/DSQResources/DSQ-atw/pulls)
+
 ----
 
 *Do not edit this README file by hand, it is automatically generated*
